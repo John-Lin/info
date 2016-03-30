@@ -12,6 +12,10 @@
 	}
 
 	/*Icon hover*/
+
+	i.fa-facebook-official:hover {
+			color: #3b5998;
+	}
 	i.fa-github:hover {
 			color: #000000;
 	}
