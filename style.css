@@ -20,10 +20,10 @@
 			color: #000000;
 	}
 	i.fa-twitter:hover {
-			color: #00aced;
+			color: #1dcaff;
 	}
 	i.fa-medium:hover {
-			color: #00FF7F;
+			color: #56dd9a;
 	}
 	i.fa-book:hover {
 			color: #FF0000;
@@ -36,6 +36,9 @@
 	}
 	i.fa-key:hover {
 			color: #FFD700;
+	}
+	i.fa-linkedin-square:hover {
+			color: #007bb6;
 	}
 
 	/*Tooltip */
